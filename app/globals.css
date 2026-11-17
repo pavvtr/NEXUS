@@ -2,7 +2,7 @@
 
 :root {
   --background: #f7f8fc;
-  --foreground: #172033;
+  --foreground: #1b263c;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
